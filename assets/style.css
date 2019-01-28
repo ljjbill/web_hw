@@ -1,0 +1,43 @@
+.logo {
+    font-weight: bold;
+    background-color:rgb(23,159,149);
+
+    font-size: 60px;
+    font-style:italic;
+}
+
+.first image {
+    width: 20%; 
+    float: left; 
+    margin : 5px;
+
+}
+
+.text {
+    float: right;
+}
+
+.img {
+     
+    float: left; 
+    
+
+}
+
+.newtext {
+     
+    color: white; 
+    font-style: normal ;
+    font-size: 30px;
+    
+
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
